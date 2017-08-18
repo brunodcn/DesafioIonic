@@ -1,0 +1,16 @@
+Passo-a-passo
+
+No prompt de comando:
+$ cd pictures
+$ mkdir Ionic
+$ cd Ionic
+$ mkdir Desafio
+$ cd Desafio
+$ ionic start DesafioIonic blank
+$ cd DesafioIonic
+$ npm install firebase angularfire2 --save
+$ npm install promise-polyfill --save --exact
+$ ionic cordova run android
+
+Resultado dos comandos apresentados:
+C:\Users\usuário\Pictures\Ionic\Desafio\DesafioIonic\platforms\android\build\outputs\apk\android-debug.apk
